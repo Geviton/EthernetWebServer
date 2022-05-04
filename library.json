@@ -33,12 +33,6 @@
       "owner": "khoih-prog",
       "name": "Ethernet_Generic",
       "version": "^2.1.0"
-    },
-    {
-      "owner": "ssilverman",
-      "name": "QNEthernet",
-      "version": ">=0.14.0",
-      "platforms": ["teensy"]
     }
   ],
   "license": "MIT",
